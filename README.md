@@ -11,9 +11,10 @@ Python Dictionaries
 Functions for modular design
 Conditional Statements
 User Input Handling
+OUTPUT:-
+
 <img width="1156" height="824" alt="image" src="https://github.com/user-attachments/assets/eb9adda6-1367-4cc2-99ed-6d79df49e1f5" />
 <img width="1184" height="661" alt="image" src="https://github.com/user-attachments/assets/f880be9b-ccc9-417f-a337-eac82d85da6a" />
-
 
 📄 Word Counter from Text File
 A text analysis tool that reads data from a file and calculates the total number of words, lines, and characters. This program helps in understanding how file data can be processed and analyzed using basic string operations and built-in Python functions.
@@ -23,6 +24,8 @@ File Handling (read operation)
 String Manipulation
 Built-in Functions
 Loops
+OUTPUT:-
+<img width="1233" height="260" alt="image" src="https://github.com/user-attachments/assets/f6e5ddf3-2b8a-4597-aa04-3532a9cd8d48" />
 
 📊 JSON File Reader
 A program designed to read and display data from a JSON file in a structured format. It introduces working with JSON, which is widely used for storing and exchanging data in modern applications such as APIs and web services.
@@ -32,6 +35,8 @@ JSON Module
 File Handling
 Data Parsing
 Formatted Output
+OUTPUT:-
+<img width="1211" height="281" alt="image" src="https://github.com/user-attachments/assets/de7088c8-853a-4277-85ce-7c965ada7294" />
 
 🎓 Student Management System (Mini Project)
 A basic student record management system that stores data in a CSV file to ensure permanent storage. The program allows users to add new student records, search for existing students using roll numbers, and delete records when needed. It simulates a simple real-world data management system without using a database.
@@ -44,3 +49,5 @@ File Handling (read and write operations)
 Functions for modular programming
 Conditional Statements and Loops
 User Input Handling
+
+I was provided the csv file in this folder which was created after running the program and also added some of the data into the file.
