@@ -91,6 +91,7 @@ main()
 Controls program flow using a menu-driven interface.
 
 PROGRAM FLOW
+
 1.Program starts
 
 2.CSV file is created if needed
@@ -103,8 +104,12 @@ PROGRAM FLOW
 
 6.Program repeats until exit
 
-Technologies Used
+Technologies Used:
+
 Python 3.x
+
 CSV Module
+
 OS Module
+
 Command-line interface
