@@ -3,7 +3,8 @@
 
 This repository contains a collection of Python programs developed as part of an internship to strengthen core programming skills such as data structures, file handling, and logical problem solving. Each program is designed to solve a specific real-world problem using simple and efficient approaches.
 
-📇 Contact Book using Dictionary
+📇 CONTACT BOOk USING DICTIONARY
+
 A simple contact management application built using Python dictionaries to store and manage contact details efficiently. The program allows users to perform operations such as adding new contacts, searching existing ones, updating information, and deleting records. It demonstrates how key-value data structures can be used for fast data retrieval and modification.
 
 🔧 Components Used:
@@ -17,7 +18,8 @@ OUTPUT:-
 <img width="1156" height="824" alt="image" src="https://github.com/user-attachments/assets/eb9adda6-1367-4cc2-99ed-6d79df49e1f5" />
 <img width="1184" height="661" alt="image" src="https://github.com/user-attachments/assets/f880be9b-ccc9-417f-a337-eac82d85da6a" />
 
-📄 Word Counter from Text File
+📄 WORD COUNTER FROM TEXT FILE
+
 A text analysis tool that reads data from a file and calculates the total number of words, lines, and characters. This program helps in understanding how file data can be processed and analyzed using basic string operations and built-in Python functions.
 
 🔧 Components Used:
@@ -29,7 +31,8 @@ Loops
 OUTPUT:-
 <img width="1233" height="260" alt="image" src="https://github.com/user-attachments/assets/f6e5ddf3-2b8a-4597-aa04-3532a9cd8d48" />
 
-📊 JSON File Reader
+📊 JSON FILE READER
+
 A program designed to read and display data from a JSON file in a structured format. It introduces working with JSON, which is widely used for storing and exchanging data in modern applications such as APIs and web services.
 
 🔧 Components Used:
