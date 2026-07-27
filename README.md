@@ -50,12 +50,12 @@ Objective
 The program demonstrates how to use file handling in Python to perform basic data operations without using a database.
 
 Features
-Add new student records
-Search student by roll number
-Delete student records
-Display all students
-Persistent storage using CSV file
-File Handling
+1.Add new student records
+2.Search student by roll number
+3.Delete student records
+4.Display all students
+5.Persistent storage using CSV file
+6.File Handling
 
 The program uses a file named students.csv.
 If the file does not exist, it is created automatically with headers:
@@ -81,13 +81,14 @@ Displays all records stored in the file.
 main()
 Controls program flow using a menu-driven interface.
 
-Program Flow
-Program starts
-CSV file is created if needed
-Menu is displayed
-User selects an option
-Operation is performed
-Program repeats until exit
+PROGRAM FLOW
+1.Program starts
+2.CSV file is created if needed
+3.Menu is displayed
+4.User selects an option
+5.Operation is performed
+6.Program repeats until exit
+
 Technologies Used
 Python 3.x
 CSV Module
