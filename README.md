@@ -41,15 +41,55 @@ OUTPUT:-
 <img width="1211" height="281" alt="image" src="https://github.com/user-attachments/assets/de7088c8-853a-4277-85ce-7c965ada7294" />
 
 🎓 Student Management System (Mini Project)
-A basic student record management system that stores data in a CSV file to ensure permanent storage. The program allows users to add new student records, search for existing students using roll numbers, and delete records when needed. It simulates a simple real-world data management system without using a database.
+Overview
 
-The application is designed with a menu-driven approach, making it easy to interact with and understand. All changes made to the data are saved in the CSV file, ensuring persistence even after the program is closed.
+The Student Management System is a command-line based Python application used to manage student records. It stores data such as roll number, name, and marks in a CSV file, ensuring permanent storage.
 
-🔧 Components Used:
+Objective
+
+The program demonstrates how to use file handling in Python to perform basic data operations without using a database.
+
+Features
+Add new student records
+Search student by roll number
+Delete student records
+Display all students
+Persistent storage using CSV file
+File Handling
+
+The program uses a file named students.csv.
+If the file does not exist, it is created automatically with headers:
+Roll Number, Name, Marks
+
+Functions
+
+create_file()
+Creates the CSV file if it does not exist and adds headers.
+
+add_student()
+Takes input from the user and adds a new record to the file.
+
+search_student()
+Searches for a student using roll number and displays details if found.
+
+delete_student()
+Removes a student record and updates the file permanently.
+
+display_students()
+Displays all records stored in the file.
+
+main()
+Controls program flow using a menu-driven interface.
+
+Program Flow
+Program starts
+CSV file is created if needed
+Menu is displayed
+User selects an option
+Operation is performed
+Program repeats until exit
+Technologies Used
+Python 3.x
 CSV Module
-File Handling (read and write operations)
-Functions for modular programming
-Conditional Statements and Loops
-User Input Handling
-
-I was provided the csv file in this folder which was created after running the program and also added some of the data into the file.
+OS Module
+Command-line interface
