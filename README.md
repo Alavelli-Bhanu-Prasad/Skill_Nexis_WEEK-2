@@ -11,6 +11,7 @@ Python Dictionaries
 Functions for modular design
 Conditional Statements
 User Input Handling
+
 OUTPUT:-
 
 <img width="1156" height="824" alt="image" src="https://github.com/user-attachments/assets/eb9adda6-1367-4cc2-99ed-6d79df49e1f5" />
@@ -24,6 +25,7 @@ File Handling (read operation)
 String Manipulation
 Built-in Functions
 Loops
+
 OUTPUT:-
 <img width="1233" height="260" alt="image" src="https://github.com/user-attachments/assets/f6e5ddf3-2b8a-4597-aa04-3532a9cd8d48" />
 
