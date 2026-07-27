@@ -44,6 +44,7 @@ OUTPUT:-
 <img width="1211" height="281" alt="image" src="https://github.com/user-attachments/assets/de7088c8-853a-4277-85ce-7c965ada7294" />
 
 🎓 Student Management System (Mini Project)
+
 Overview
 
 The Student Management System is a command-line based Python application used to manage student records. It stores data such as roll number, name, and marks in a CSV file, ensuring permanent storage.
@@ -54,10 +55,15 @@ The program demonstrates how to use file handling in Python to perform basic dat
 
 Features
 1.Add new student records
+
 2.Search student by roll number
+
 3.Delete student records
+
 4.Display all students
+
 5.Persistent storage using CSV file
+
 6.File Handling
 
 The program uses a file named students.csv.
@@ -86,10 +92,15 @@ Controls program flow using a menu-driven interface.
 
 PROGRAM FLOW
 1.Program starts
+
 2.CSV file is created if needed
+
 3.Menu is displayed
+
 4.User selects an option
+
 5.Operation is performed
+
 6.Program repeats until exit
 
 Technologies Used
